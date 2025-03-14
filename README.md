@@ -1,6 +1,9 @@
-# My App
+# CursorApp
 
-A modern React application with authentication, profile management, and a clean component structure.
+A modern React application built with Cursor IDE, featuring authentication, profile management, and a clean component structure.
+
+## About
+Playing around with Cursor to see what we can build! This project demonstrates the power of modern development tools and React best practices.
 
 ## Features
 
@@ -19,8 +22,8 @@ A modern React application with authentication, profile management, and a clean 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd my_app
+git clone https://github.com/bryantheil/CursorApp.git
+cd CursorApp
 ```
 
 2. Install dependencies:
@@ -62,7 +65,7 @@ The build artifacts will be stored in the `build/` directory.
 ## Project Structure
 
 ```
-my_app/
+CursorApp/
 ├── public/                  # Static assets
 ├── src/                    # Source code
 │   ├── components/         # Reusable UI components
@@ -91,4 +94,4 @@ my_app/
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the MIT License - see the LICENSE file for details.
